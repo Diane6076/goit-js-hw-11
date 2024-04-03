@@ -1,0 +1,9 @@
+/* <!-- Завдання 2 --> */
+
+#countdown {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+#action {
+    display: none;
+}
